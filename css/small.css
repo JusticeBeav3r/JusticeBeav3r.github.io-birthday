@@ -1,5 +1,17 @@
 
 
+
+
+body {
+  background: url('../images/Its-party-time-3.jpg');
+  font-family: 'Open Sans', arial, sans-serif;
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+
 .container {
   width: 100%;
   margin: 0;
