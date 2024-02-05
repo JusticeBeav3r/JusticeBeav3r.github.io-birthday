@@ -83,6 +83,7 @@ address {
 
 .container section:nth-child(odd) {
   background: #D3D3D3;
+  border-radius: 20px 20px 0 0;
 }
 
 /*
