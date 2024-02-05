@@ -4,11 +4,8 @@
 
 
 body {
-<<<<<<< HEAD
   background: url('../images/Its-party-time-3.jpg');
-=======
-  background: url('../images/Its-party-time-3.jpg');
->>>>>>> 7e7746fae8521bb73eef0da8293e765ef81e59ad
+
   font-family: 'Open Sans', arial, sans-serif;
 
   background-size: cover;
@@ -87,8 +84,9 @@ address {
 
 .container section:nth-child(odd) {
   background: #D3D3D3;
-  border-radius: 20px 20px 0 0;
 }
+
+
 
 /*
 *Hero Styles
@@ -101,12 +99,17 @@ address {
 
 .hero img {
   width: 100%;
-  border-radius: 40px 40px 0 0;
+  border-radius: 20px 20px 0 0;
 }
 
 /*
 Section Styles
 */
+
+section.hero{
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
 
 section.intro, section.contact {
   padding: 40px;
