@@ -4,7 +4,11 @@
 
 
 body {
+<<<<<<< HEAD
   background: url('../images/Its-party-time-3.jpg');
+=======
+  background: url('../images/Its-party-time-3.jpg');
+>>>>>>> 7e7746fae8521bb73eef0da8293e765ef81e59ad
   font-family: 'Open Sans', arial, sans-serif;
 
   background-size: cover;
@@ -97,7 +101,7 @@ address {
 
 .hero img {
   width: 100%;
-  border-radius: 20px 20px 0 0;
+  border-radius: 40px 40px 0 0;
 }
 
 /*
